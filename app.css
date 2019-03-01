@@ -1,25 +1,67 @@
 
-h2 h3 h4 h5 h6 h7{
+h2{
 
   position:absolute;
 
   width:100px;
   height:100px;
   top:20px;
+  left:200px;
   front-size:20px;
 }
-h2{ position:absolute;left:200px;}
-h3{ position:absolute;left:400px;}
-h4{ position:absolute;left:600px;}
-h5{ position:absolute;left:800px;}
+h3{
 
-h6{ position:absolute;
-right:100px:}
-h7{ position:absolute;
-right:50px;}
+  position:absolute;
+
+  width:100px;
+  height:100px;
+  top:20px;
+  left:400px;
+  front-size:20px;
+}
+h4{
+
+  position:absolute;
+
+  width:100px;
+  height:100px;
+  top:20px;
+  left:600px;
+  front-size:20px;
+}
+h5{
+
+  position:absolute;
+
+  width:100px;
+  height:100px;
+  top:20px;
+  left:800px;
+  front-size:20px;
+}
+h6{
+
+  position:absolute;
+
+  width:100px;
+  height:100px;
+  top:20px;
+  right:200px;
+  front-size:20px;
+}
+h7{
+
+  position:absolute;
+
+  width:100px;
+  height:100px;
+  top:20px;
+  right:100px;
+  front-size:20px;
+}
 
 
-p {
+p{
   color:red;
 
 }
