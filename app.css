@@ -4,20 +4,20 @@ h2{
   position:absolute;
 
   width:100px;
-  height:100px;
+  
   top:20px;
-  left:200px;
-  front-size:20px;
+  left:400px;
+  font-size:20px;
 }
 h3{
 
   position:absolute;
 
   width:100px;
-  height:100px;
-  top:20px;
-  left:400px;
-  front-size:20px;
+  
+  
+  left:600px;
+  font-size:20px;
 }
 h4{
 
@@ -26,8 +26,8 @@ h4{
   width:100px;
   height:100px;
   top:20px;
-  left:600px;
-  front-size:20px;
+  left:800px;
+  font-size:20px;
 }
 h5{
 
@@ -36,8 +36,8 @@ h5{
   width:100px;
   height:100px;
   top:20px;
-  left:800px;
-  front-size:20px;
+  left:1000px;
+  font-size:20px;
 }
 h6{
 
@@ -47,7 +47,7 @@ h6{
   height:100px;
   top:20px;
   right:200px;
-  front-size:20px;
+  font-size:20px;
 }
 h7{
 
@@ -57,7 +57,7 @@ h7{
   height:100px;
   top:20px;
   right:100px;
-  front-size:20px;
+  font-size:20px;
 }
 
 
