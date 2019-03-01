@@ -8,14 +8,14 @@ h2 h3 h4 h5 h6 h7{
   top:20px;
   front-size:20px;
 }
-h2{left:200px;}
-h3{left:400px;}
-h4{left:600px;}
-h5{left:800px;}
+h2{ position:absolute;left:200px;}
+h3{ position:absolute;left:400px;}
+h4{ position:absolute;left:600px;}
+h5{ position:absolute;left:800px;}
 
-h6{
+h6{ position:absolute;
 right:100px:}
-h7{
+h7{ position:absolute;
 right:50px;}
 
 
