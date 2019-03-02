@@ -4,6 +4,7 @@
   background-color: white;
   font-size=10px;
   top: 0;
+
 }
 
 .left_nav{
@@ -20,12 +21,13 @@
 .right_nav{
   position:absolute;
 right:0;
+width:100px;
 }
 
 .link{
 position:absolute;
 width:50px;
-margin:50px;
+margin-left: 50px;
 }
 
 .left{
