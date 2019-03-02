@@ -13,9 +13,19 @@
 }
 .middle_nav{
   position:absolute;
+  max-width :600px;
+  margin: 0 auto;
+
 }
 .right_nav{
   position:absolute;
+right:0;
+}
+
+.link{
+position:absolute;
+width:50px;
+margin:50px;
 }
 
 .left{
