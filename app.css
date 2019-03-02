@@ -1,11 +1,27 @@
 
 .navbar{
+  position: fixed;
   background-color: white;
   font-size=10px;
   top: 0;
 }
+
+.left_nav{
+ position:absolute;
+ width:50px;
+}
+.middle_nav{
+  position:absolute;
+  top:0;
+}
+.right_nav{
+  position:absolute;
+}
+
 .left{
-  
+  max-width: 50%;
+  position: relative;
+  left: 0;
 }
 .middle{
 
