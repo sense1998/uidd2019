@@ -1,31 +1,36 @@
 
 .navbar{
   position: fixed;
+  top: 0;
+  left:0;
+  width:100%;
   background-color: white;
   font-size=10px;
-  top: 0;
-    float:left;
-
-}
+ }
 
 .left_nav{
  position:absolute;
+ top:0;
+ right:0;
  width:50px;
  height:50px;
  font-size=20px;
 }
+
 .middle_nav{
   position:absolute;
+  top:0;
+  right:50px;
   max-width :600px;
-  margin: 0 auto;
-  float:left;
-
+  height:50px;
 }
+
 .right_nav{
   position:absolute;
-width:100px;
-margin-left:650px;
-    float:left;
+  top:0;
+  right:650px;
+  max-width :200px;
+  height:50px;
 }
 
 .link{
