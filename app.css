@@ -11,7 +11,7 @@
 .left_nav{
  position:absolute;
  top:0;
- margin:0;
+ left:0;
  width:50px;
  height:50px;
  font-size=20px;
@@ -34,9 +34,12 @@
 }
 
 .link{
-position:absolute;
-width:50px;
-margin-left: 50px;
+  position:absolute;
+  top:0;
+  right:0px;
+  max-width :200px;
+  height:50px;
+  display:inline
 }
 
 
