@@ -60,6 +60,7 @@
   top: 0;
   left: 0px;
   z-index:0;
+  margin:0px auto;
   background-size:cover;
 }
 .right_picture{
