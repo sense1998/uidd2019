@@ -20,7 +20,8 @@
 .middle_nav{
   position:absolute;
   top:0;
-  margin:0 auto;
+  margin-left:auto;
+  margin-right:auto;
   max-width :600px;
   height:50px;
 }
@@ -39,21 +40,19 @@
   right:0px;
   max-width :200px;
   height:50px;
-  flost:left;
+  float:left;
 }
 
 
 
 
 .left_picture{
-  src="https://raw.githubusercontent.com/sense1998/uidd2019/master/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E6%A9%98.jpg"
   max-width: 50%;
   position: relative;
   top: 0;
   left: 0;
 }
 .right_picture{
-  src="https://github.com/sense1998/uidd2019/blob/master/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E8%97%8D.jpg?raw=true"
   max-width: 50%;
   position: relative;
   top:0;
