@@ -35,20 +35,23 @@
   position:absolute;
   top:0;
   right:0px;
-  width :200px;
+  width :100px;
   height:100px;
 }
 
 .link{
   position:absolute;
   top:0;
-  right:0px;
+  left:0px;
   width :100px;
   height:50px;
   float:left;
 }
 
-
+.search{
+  float:left;}
+.sense{
+  float:left;}
 
 
 .left_picture{
