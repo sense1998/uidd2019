@@ -26,7 +26,7 @@
 .middle_nav{
   position:absolute;
   top:0;
-  left:25%;
+  margin:auto;
   width :600px;
   height:100px;
 }
