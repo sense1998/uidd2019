@@ -47,7 +47,7 @@
 
 
 .left_picture{
-  max-width: 50%;
+  width: 50%;
   position: relative;
   top: 0;
   left: 0;
@@ -55,7 +55,7 @@
   background-size:cover;
 }
 .right_picture{
-  max-width: 50%;
+  width: 50%;
   position: relative;
   top:0;
   right: 0;
