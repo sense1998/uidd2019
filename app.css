@@ -6,6 +6,7 @@
   width:100%;
   background-color: white;
   font-size=10px;
+  z-index:1;
  }
 
 .left_nav{
@@ -20,8 +21,7 @@
 .middle_nav{
   position:absolute;
   top:0;
-  margin-left:auto;
-  margin-right:auto;
+  left:25%;
   max-width :600px;
   height:50px;
 }
@@ -51,12 +51,16 @@
   position: relative;
   top: 0;
   left: 0;
+  z-index:0;
+  background-size:cover;
 }
 .right_picture{
   max-width: 50%;
   position: relative;
   top:0;
   right: 0;
+  z-index:0;
+  background-size:contain;
 }
 
 
