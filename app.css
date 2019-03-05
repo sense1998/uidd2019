@@ -26,7 +26,7 @@
 .middle_nav{
   position:absolute;
   top:0;
-  margin:auto;
+  left:25%;
   width :600px;
   height:100px;
 }
@@ -42,10 +42,9 @@
 .link{
   position:absolute;
   top:0;
-  left:0px;
   width :100px;
   height:50px;
-  float:left;
+  display:inline;
 }
 
 .search{
