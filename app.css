@@ -70,7 +70,9 @@ top:100px;
   top:0;
   right: 0px;
   z-index:0;
-  float:left;
+  float:right;
+  
+    margin-top: -486px;
   background-size:contain;
 }
 
