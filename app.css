@@ -40,7 +40,6 @@
 }
 
 .link{
-  position:absolute;
   top:0;
   width :100px;
   height:50px;
@@ -59,7 +58,6 @@
   top: 0;
   left: 0px;
   z-index:0;
-  margin:0px auto;
   background-size:cover;
 }
 .right_picture{
