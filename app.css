@@ -44,6 +44,7 @@
   width :100px;
   height:50px;
   display:inline;
+  margin:35px;
 }
 
 .search{
@@ -51,7 +52,7 @@
 .sense{
   float:left;}
 .image{
-top:100;
+top:100px;
 }
 
 .left_picture{
